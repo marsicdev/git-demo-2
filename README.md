@@ -1,3 +1,3 @@
 # This is my first repo
 
-## this is my first change
+## This is my first change
